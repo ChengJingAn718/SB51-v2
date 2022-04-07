@@ -32,7 +32,8 @@ if (!process.env.NODE_ENV || process.env.NODE_ENV === 'development') {
     sharePrePath = './'
 } else {
     // production code
-    sharePrePath = './ee02_ls_tlwd_py/'
+    // sharePrePath = './ee02_ls_tlwd_py/'
+    sharePrePath = './'
 }
 
 export const prePathUrl = () => sharePrePath;
