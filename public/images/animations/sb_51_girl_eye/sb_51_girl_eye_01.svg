@@ -1,0 +1,33 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="84.09" height="47.32" viewBox="0 0 84.09 47.32">
+  <defs>
+    <style>
+      .cls-1, .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-1 {
+        stroke: #3d2e17;
+        stroke-miterlimit: 10;
+        stroke-width: 0.75px;
+      }
+
+      .cls-2 {
+        fill: #3d2e17;
+      }
+    </style>
+  </defs>
+  <g>
+    <g>
+      <ellipse class="cls-1" cx="13.67" cy="33.46" rx="11.63" ry="12.39" transform="translate(-1.45 0.63) rotate(-2.5)"/>
+      <ellipse class="cls-2" cx="13.5" cy="33.33" rx="7.78" ry="8.29" transform="translate(-1.44 0.62) rotate(-2.5)"/>
+      <ellipse class="cls-3" cx="9.57" cy="26.82" rx="2.13" ry="2.27" transform="translate(-1.16 0.44) rotate(-2.5)"/>
+    </g>
+    <g>
+      <ellipse class="cls-1" cx="69.12" cy="33.28" rx="11.63" ry="12.39" transform="translate(-1.38 3.04) rotate(-2.5)"/>
+      <ellipse class="cls-2" cx="68.83" cy="33.28" rx="7.66" ry="8.17" transform="translate(-1.39 3.03) rotate(-2.5)"/>
+      <ellipse class="cls-3" cx="65.02" cy="26.64" rx="2.13" ry="2.27" transform="translate(-1.1 2.86) rotate(-2.5)"/>
+    </g>
+    <path class="cls-2" d="M64.1,8.38s11.48-2.49,17.37,5a.39.39,0,0,0,.71-.23c-.28-2.34-1.76-7.13-9-8.23C61.73,3.19,64.1,8.38,64.1,8.38Z"/>
+    <path class="cls-2" d="M19.63,5.54S8,4.06,2.77,12.05A.39.39,0,0,1,2,11.88c.08-2.36,1.13-7.26,8.26-9C21.54.17,19.63,5.54,19.63,5.54Z"/>
+  </g>
+</svg>
